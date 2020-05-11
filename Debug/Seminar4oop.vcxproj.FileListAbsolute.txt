@@ -1,0 +1,2 @@
+C:\Users\smark\source\repos\Seminar4oop\Debug\Seminar4oop.exe
+C:\Users\smark\source\repos\Seminar4oop\Debug\Seminar4oop.pdb
